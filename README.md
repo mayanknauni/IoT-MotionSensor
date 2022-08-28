@@ -6,4 +6,4 @@ Using Rasberry Pi with Passive InfraRed (PIR) to sense the motion. The data is p
 ![High Lebel Schematic](https://github.com/mayanknauni/IoT-MotionSensor/blob/main/IoT-MotionDetector(1).jpg)
 
 
-Detail blog can be found here https://aws.amazon.com/blogs/iot/monitor-and-visualise-building-occupancy-with-aws-iot-core-amazon-quicksight-and-raspberry-pi/ , however I am using my own code which can be located in the same repo ( motion_sensor.py)
+The blog I've refered to can be found here https://aws.amazon.com/blogs/iot/monitor-and-visualise-building-occupancy-with-aws-iot-core-amazon-quicksight-and-raspberry-pi/ , however I have customized the approach and have used my own code which is shared in the same repo ( motion_sensor.py)
