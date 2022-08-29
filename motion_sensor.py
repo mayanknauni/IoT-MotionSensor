@@ -1,3 +1,13 @@
+###############################################################
+# Designed and Maintained by Mayank Nauni                     # 
+#                                                             #
+#     Raspberry Pi Sending Data to IoT Core                   # 
+#                                                             #
+#     All rights reserved.                                    # 
+#     Revision history:                                       #  
+#     29 Aug 2022 |  1.0 - initial release                    #   
+###############################################################   
+
 import RPi.GPIO as GPIO
 from datetime import datetime
 
