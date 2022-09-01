@@ -1,0 +1,13 @@
+if (msg.payload === "0" ){
+    msg.payload  = { 
+        "MotionMessage": "No Motion",
+        "Timestamp": msg.time
+    }
+
+} else {
+    msg.payload  = { 
+        "MotionMessage": "Motion Detected",
+        "Timestamp": msg.time
+    }
+}
+return msg;
